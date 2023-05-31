@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.bg-container {
+  height: 100vh;
+  cursor: pointer;
+  background-color: #ffc2a0;
+  padding: 12px;
+}
+
+.container {
+  height: 90vh;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  flex-direction: column;
+}
+
+.heading {
+  font-size: 22px;
+  font-weight: 600;
+  color: #ffc2a0;
+  font-family: 'Roboto';
+}

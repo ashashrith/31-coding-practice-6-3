@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.para {
+  font-size: 16px;
+  color: black;
+  font-family: 'Roboto';
+}
+
+.btn {
+  height: 24px;
+  width: 70px;
+  font-size: 12px;
+  color: red;
+  border-radius: 12px;
+  border-width: 1px;
+  background-color: transparent;
+  border-style: solid;
+  padding: auto;
+  margin-left: 12px;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+}
